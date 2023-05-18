@@ -1,0 +1,24 @@
+/* style sheet for the default tags */
+table{width: 100%;}
+td{padding: 0px 0px 0px 50px; }
+
+/* custom style sheet */
+.heading-style{text-align: center; padding: 10px; margin: 0px;}
+.paragraph-style{padding: 10px; margin: 0px 0px 20px 0px;}
+
+/* style sheet for floating containers */
+.float-container {padding: 5px;}
+.float-child {width: 47%; float: left; padding: 5px;}
+
+/* style sheet for my resume */
+h1 {color: #003ecb !important;}
+a{color: #ffffff !important; border-bottom: 1px solid #ffffff;}
+body{background-color: #f1f1f1 !important;}
+.intro{background-color: #003ecb; margin: 15px; color: #ffffff;}
+.box{box-shadow: 2px #333333; padding: 20px; margin: 15px; background-color: #ffffff;}
+.fa{font-size: 50px !important;}
+/* Customize css classes[font awesome] */
+.fa-birthday-cake{ color: #f9a71d;}
+.fa-trophy{color: #26bdc4;}
+.fa-desktop{color: #0841c4;}
+.fa-paw{color: #edc515}
